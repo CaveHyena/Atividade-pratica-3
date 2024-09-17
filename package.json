@@ -1,0 +1,12 @@
+{
+  "name": "atividade-pratica-3---lista-de-tarefas-git-github",
+  "version": "1.0.0",
+  "description": "Atividade prática 3 - Lista de tarefas Git/GitHub, Manutenção de Software e DevOps. Naira Natasha Higa Miyahara 2314290030",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
